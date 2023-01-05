@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Mobile programming task</string>
+    <string name="cameraButton">Camera</string>
+    <string name="nameHint">Name</string>
+    <string name="salaryHint">Salary</string>
+    <string name="ageHint">Age</string>
+    <string name="openButton">Open</string>
+    <string name="storeDBButton">Store to database</string>
+    <string name="listEmployee">List</string>
+    <string name="saveButton">Save</string>
+    <string name="deleteButton">Delete</string>
+    <string name="storeFileButton">Store to file</string>
+    <string name="readFromFile">Read from file</string>
+    <string name="openWeb">Internet</string>
+    <string name="httpButton">HTTP List</string>
+    <string name="idCell">ID</string>
+    <string name="nameCell">Name</string>
+    <string name="salaryCell">Salary</string>
+    <string name="ageCell">Age</string>
+    <string name="uploadHttp">Upload</string>
+    <string name="httpUpload">Http Upload</string>
+    <string name="getByIDBtn">Get by ID</string>
+    <string name="searchBtn">Search</string>
+    <string name="IDTextView">ID</string>
+</resources>

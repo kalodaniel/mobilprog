@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Mobil programozás Feladat</string>
+    <string name="cameraButton">Kamera</string>
+    <string name="nameHint">Név</string>
+    <string name="salaryHint">Fizetés</string>
+    <string name="ageHint">Kor</string>
+    <string name="openButton">Megnyitás</string>
+    <string name="storeDBButton">Mentés Adatbázisba</string>
+    <string name="listEmployee">Listázás</string>
+    <string name="saveButton">Mentés</string>
+    <string name="deleteButton">Törlés</string>
+    <string name="storeFileButton">Mentés fileba</string>
+    <string name="readFromFile">Betöltés fileból</string>
+    <string name="openWeb">Internet</string>
+    <string name="httpButton">HTTP Lista</string>
+    <string name="idCell">Azonosító</string>
+    <string name="nameCell">Név</string>
+    <string name="salaryCell">Fizetés</string>
+    <string name="ageCell">Kor</string>
+    <string name="uploadHttp">Feltöltés</string>
+    <string name="nameText">Név</string>
+    <string name="httpUpload">Http Felöltés</string>
+    <string name="getByIDBtn">Keresés ID szerint</string>
+    <string name="searchBtn">Keresés</string>
+    <string name="IDTextView">Azonosító</string>
+</resources>
